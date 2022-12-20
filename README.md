@@ -6,4 +6,4 @@ Say we are comparing between two players, if player_x has a grater score than pl
 Inputs are : 
 
 * n : the number of players 
-* next n lines : a string containing the result of the players splitted by space: the player's name, hi score and then the time taken.
+* next n lines : a string containing the result of the players splitted by space: the player's name, his score and the time taken.
